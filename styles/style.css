@@ -76,3 +76,23 @@ header p{
 .failures-text p i{
     margin-right: 5px;
 }
+/* my plans section */
+.plans{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: space-around;
+    text-align: center;
+}
+.plans-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+.plan-title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #151414;
+}
