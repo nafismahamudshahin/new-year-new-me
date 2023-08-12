@@ -41,3 +41,38 @@ header p{
     background: #c73b03;
     color: black;
 }
+/* failures section */
+.failures{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.title{
+    color: #151414;
+    font-family: work sans;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.dipo{
+    color:#444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+.failures-text{
+    width: 30%;
+}
+.failures-text p{
+    line-height: 26px;
+    font-size: 16px;
+    color: #444343;
+}
+.failures-text p i{
+    margin-right: 5px;
+}
